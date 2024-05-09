@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|c:\\users\\hamza\\source\\repos\\grocerystore2\\removeitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:removeitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|c:\\users\\hamza\\source\\repos\\grocerystore2\\removeitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:removeitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|c:\\users\\hamza\\source\\repos\\grocerystore2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|c:\\users\\hamza\\source\\repos\\grocerystore2\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|c:\\users\\hamza\\source\\repos\\grocerystore2\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|c:\\users\\hamza\\source\\repos\\grocerystore2\\grocerystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:grocerystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|c:\\users\\hamza\\source\\repos\\grocerystore2\\additemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:additemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0577C4-BC2A-4645-B0B0-5A9FDB298777}|GroceryStore2.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "ErrorHandler.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\ErrorHandler.cs",
+              "RelativeToolTip": "ErrorHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:18:02.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\InputValidator.cs",
+              "RelativeDocumentMoniker": "InputValidator.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\InputValidator.cs",
+              "RelativeToolTip": "InputValidator.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:00:43.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddItemForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\AddItemForm.Designer.cs",
+              "RelativeDocumentMoniker": "AddItemForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\AddItemForm.Designer.cs",
+              "RelativeToolTip": "AddItemForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:57:29.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroceryStore.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\GroceryStore.cs",
+              "RelativeDocumentMoniker": "GroceryStore.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\GroceryStore.cs",
+              "RelativeToolTip": "GroceryStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:56:33.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemoveItemForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\RemoveItemForm.cs",
+              "RelativeDocumentMoniker": "RemoveItemForm.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\RemoveItemForm.cs",
+              "RelativeToolTip": "RemoveItemForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:08:02.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoveItemForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\RemoveItemForm.cs",
+              "RelativeDocumentMoniker": "RemoveItemForm.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\RemoveItemForm.cs [Design]",
+              "RelativeToolTip": "RemoveItemForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:00:09.389Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddItemForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\AddItemForm.cs",
+              "RelativeDocumentMoniker": "AddItemForm.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\AddItemForm.cs",
+              "RelativeToolTip": "AddItemForm.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAhwDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:01:08.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddItemForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\AddItemForm.cs",
+              "RelativeDocumentMoniker": "AddItemForm.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\AddItemForm.cs [Design]",
+              "RelativeToolTip": "AddItemForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:59:43.692Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:47:25.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAawCEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:46:31.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "InventoryItem.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\InventoryItem.cs",
+              "RelativeToolTip": "InventoryItem.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADgvxcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:24:41.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:24:10.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\GroceryStore2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:22:25.369Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
